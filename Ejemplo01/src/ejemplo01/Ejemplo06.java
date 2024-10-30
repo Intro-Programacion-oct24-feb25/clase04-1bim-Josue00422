@@ -14,8 +14,8 @@ public class Ejemplo06 {
         // Uso de printf
         // f: formato
         
-        String nombreEstudiante = "René Rolando";
-        String apellidoEstudiante = "Elizalde Solano";
+        String nombreEstudiante = "jhandry josue";
+        String apellidoEstudiante = "naula zhunaula";
         int nacimiento = 1983;
         
         // System.out.println(nombreEstudiante+" "+apellidoEstudiante+ " "+ 
