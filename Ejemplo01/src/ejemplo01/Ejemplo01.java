@@ -20,8 +20,10 @@ public class Ejemplo01 {
         nombreEstudiante = "René Elizalde";
         System.out.println(nombreEstudiante);
         System.out.println("René Elizalde");
+        // no es nesesario el String para dar valor a la variable 
         nombreEstudiante = "Felipe Elizalde";
         System.out.println(nombreEstudiante);
+        
     }
     
 }
